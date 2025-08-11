@@ -1,0 +1,9 @@
+streamlit
+python-docx
+PyPDF2
+faiss-cpu
+google-genai   
+tqdm
+numpy
+scikit-learn
+sentencepiece      

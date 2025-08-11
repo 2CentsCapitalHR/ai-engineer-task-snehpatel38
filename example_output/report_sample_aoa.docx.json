@@ -1,0 +1,50 @@
+{
+  "filename": "sample_aoa.docx",
+  "inferred_process": "Company Incorporation",
+  "findings": [
+    {
+      "paragraph_index": 0,
+      "issues": [
+        {
+          "section": "Company Formation & Governance",
+          "issue": "Insufficient information on Articles of Association (AoA)",
+          "severity": "High",
+          "suggestion": "Review the ADGM requirements for AoAs. Ensure the AoA complies with all relevant ADGM regulations and includes all necessary clauses.  Refer to the provided link: https://www.adgm.com/registration-authority/registration-and-incorporation for further guidance."
+        }
+      ]
+    },
+    {
+      "paragraph_index": 1,
+      "issues": [
+        {
+          "section": "Company Formation & Governance",
+          "issue": "Missing crucial incorporation documents",
+          "severity": "High",
+          "suggestion": "Ensure all necessary documentation for incorporation under ADGM regulations is completed and filed, including Articles of Association (AoA), Memorandum of Association (MoA), register of beneficial owners (UBO), and board resolutions. Refer to the ADGM's company formation guidelines and templates for further guidance."
+        }
+      ]
+    },
+    {
+      "paragraph_index": 3,
+      "issues": [
+        {
+          "section": "Jurisdiction",
+          "issue": "Clause specifying UAE Federal Courts jurisdiction may conflict with ADGM's legal framework.",
+          "severity": "High",
+          "suggestion": "Review ADGM's legal framework and ensure the jurisdiction clause aligns with ADGM regulations.  Consider specifying ADGM courts as the primary jurisdiction for disputes arising from the agreement, unless there's a compelling reason otherwise. Consult legal counsel specializing in ADGM law."
+        }
+      ]
+    },
+    {
+      "paragraph_index": 4,
+      "issues": [
+        {
+          "section": "Company Formation",
+          "issue": "Insufficient information on share capital requirements.",
+          "severity": "Medium",
+          "suggestion": "Review ADGM's requirements for minimum share capital for different company types.  The provided amount (AED 100,000) may or may not be sufficient depending on the chosen legal structure and business activities. Consult the relevant ADGM guidelines and checklists for company setup to determine the appropriate share capital."
+        }
+      ]
+    }
+  ]
+}
