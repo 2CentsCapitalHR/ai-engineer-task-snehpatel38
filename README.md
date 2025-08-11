@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Set your **Gemini API key**
 
-# Windows (Command Prompt)
+#### Windows (Command Prompt)
 ```bash
 setx GEMINI_API_KEY "your-api-key-here"
 ````
