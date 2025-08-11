@@ -153,11 +153,15 @@ streamlit run app.py
 
 ## 🖼 Screenshots
 
-### Home Screen
+### 🏠 Home Screen
+![Home Screen](https://github.com/2CentsCapitalHR/ai-engineer-task-snehpatel38/blob/main/examples/screenshot_home.png?raw=true)
 
-### Checklist Detection
+### 📋 Checklist Detection
+![Checklist Detection](https://github.com/2CentsCapitalHR/ai-engineer-task-snehpatel38/blob/main/examples/screenshot_checklist.png?raw=true)
 
-### Reviewed Document Download
+### ✏️ Reviewed Document Download
+![Reviewed Document](https://github.com/2CentsCapitalHR/ai-engineer-task-snehpatel38/blob/main/examples/screenshot_review.png?raw=true)
+
 
 ---
 
