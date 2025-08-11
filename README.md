@@ -36,23 +36,16 @@ This project is a **Streamlit + RAG pipeline** application built for the AI Engi
 
 ## 📂 Project Structure
 
-
+```plaintext
 ├── app.py                # Main Streamlit app
-
 ├── requirements.txt      # Dependencies
-
 ├── README.md             # This file
-
 ├── Data Sources.pdf      # ADGM reference
-
 ├── examples/
-
 │   ├── sample_before.docx
-
 │   ├── sample_after.docx
-
 │   ├── sample_report.json
-
+```
 
 ## ⚙️ Setup Instructions
 
@@ -69,13 +62,13 @@ cd <repo-folder>
 python -m venv .venv
 ```
 
-# Windows
+#### Windows
 
 ```bash
 .venv\Scripts\activate
 ```
 
-# Mac/Linux
+#### Mac/Linux
 ```bash
 source .venv/bin/activate
 ````
@@ -92,7 +85,7 @@ pip install -r requirements.txt
 setx GEMINI_API_KEY "your-api-key-here"
 ````
 
-# Mac/Linux
+#### Mac/Linux
 ```bash
 export GEMINI_API_KEY="your-api-key-here"
 ````
