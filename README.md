@@ -160,7 +160,7 @@ streamlit run app.py
 ![Checklist Detection](https://github.com/2CentsCapitalHR/ai-engineer-task-snehpatel38/blob/main/examples/screenshot_checklist.png?raw=true)
 
 ### ✏️ Reviewed Document Download
-![Reviewed Document](https://github.com/2CentsCapitalHR/ai-engineer-task-snehpatel38/blob/main/examples/screenshot_review.png?raw=true)
+![Reviewed Document](https://github.com/2CentsCapitalHR/ai-engineer-task-snehpatel38/blob/main/examples/screenshot_docx.png)
 
 
 ---
