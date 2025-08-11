@@ -65,34 +65,42 @@ cd <repo-folder>
 
 ### 2️⃣ Create a virtual environment & activate it
 
+```bash
 python -m venv .venv
+```
 
 # Windows
 
+```bash
 .venv\Scripts\activate
+```
 
 # Mac/Linux
-
+```bash
 source .venv/bin/activate
+````
 
 ### 3️⃣ Install dependencies
-
+```bash
 pip install -r requirements.txt
+````
 
 ### 4️⃣ Set your **Gemini API key**
 
-
 # Windows (Command Prompt)
-
+```bash
 setx GEMINI_API_KEY "your-api-key-here"
+````
 
 # Mac/Linux
-
+```bash
 export GEMINI_API_KEY="your-api-key-here"
+````
 
 ### 5️⃣ Run the app
-
+```bash
 streamlit run app.py
+````
 
 
 ## 📖 Usage Guide
